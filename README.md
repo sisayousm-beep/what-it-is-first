@@ -1,4 +1,4 @@
-# define-first-copy
+# what it is first
 
 AI로 웹사이트를 만들 때, 처음 보는 사람이 각 개념이 **무엇인지**부터 이해하도록 문구를 쓰게 하는 스킬입니다.
 
